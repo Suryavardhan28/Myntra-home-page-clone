@@ -57,6 +57,7 @@ body{
   font-size: 1.2rem;
   margin-right:100px;
   border:none;
+  outline: 0;;
 }
 
 .top .search-bar .righticons{
